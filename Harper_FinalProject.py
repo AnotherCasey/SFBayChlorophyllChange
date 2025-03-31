@@ -3,7 +3,6 @@
 #   Created by Casey Harper
 #   Download and process remote sensing imagery data
 #   for chlorophyll-a concentration in San Francisco Bay
-#   GEOG 562 Final Project
 ####################################################################################################
 
 # Import necessary packages
